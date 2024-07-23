@@ -48,10 +48,13 @@ namespace ListOfObjectSerializeDeserialize
         {
             using (StreamReader sr = new StreamReader(path))
             {
+                int count = 0;
                 while (!sr.EndOfStream)
                 {
                     Person person = JsonSerializer.Deserialize<Person>(sr.ReadLine());
-                    Console.WriteLine(person);
+                    count++;
+                    Console.Write(person);
+                    Console.WriteLine("Person Number = " +count+"\n");
                 }
             }
         }

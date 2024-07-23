@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EC2kDUHBqUE=",
+  "dgSpecHash": "pbHxUDz10yw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ListOfObjectSerializeDeserialize\\ListOfObjectSerializeDeserialize.csproj",
+  "projectFilePath": "D:\\C# Training github\\SerializationDeserialization\\ListOfObjectSerializeDeserialize.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nimith.shetty\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
     "C:\\Users\\nimith.shetty\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.0\\system.diagnostics.eventlog.8.0.0.nupkg.sha512",

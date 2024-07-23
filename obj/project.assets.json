@@ -184,11 +184,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ListOfObjectSerializeDeserialize\\ListOfObjectSerializeDeserialize.csproj",
+      "projectUniqueName": "D:\\C# Training github\\SerializationDeserialization\\ListOfObjectSerializeDeserialize.csproj",
       "projectName": "ListOfObjectSerializeDeserialize",
-      "projectPath": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ListOfObjectSerializeDeserialize\\ListOfObjectSerializeDeserialize.csproj",
+      "projectPath": "D:\\C# Training github\\SerializationDeserialization\\ListOfObjectSerializeDeserialize.csproj",
       "packagesPath": "C:\\Users\\nimith.shetty\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ListOfObjectSerializeDeserialize\\obj\\",
+      "outputPath": "D:\\C# Training github\\SerializationDeserialization\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nimith.shetty\\AppData\\Roaming\\NuGet\\NuGet.Config",

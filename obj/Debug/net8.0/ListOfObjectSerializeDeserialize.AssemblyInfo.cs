@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ListOfObjectSerializeDeserialize")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e809e5e60dec3d5d9bb2a9efbcd406be545eb3d")]
 [assembly: System.Reflection.AssemblyProductAttribute("ListOfObjectSerializeDeserialize")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ListOfObjectSerializeDeserialize")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

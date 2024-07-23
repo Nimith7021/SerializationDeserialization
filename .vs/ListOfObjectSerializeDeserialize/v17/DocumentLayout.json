@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ListOfObjectSerializeDeserialize\\",
+  "WorkspaceRootPath": "D:\\C# Training github\\SerializationDeserialization\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FA4E3519-2D9D-4BF9-9EB1-5815F23C0577}|ListOfObjectSerializeDeserialize.csproj|c:\\users\\nimith.shetty\\desktop\\aproscm\\listofobjectserializedeserialize\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA4E3519-2D9D-4BF9-9EB1-5815F23C0577}|ListOfObjectSerializeDeserialize.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA4E3519-2D9D-4BF9-9EB1-5815F23C0577}|ListOfObjectSerializeDeserialize.csproj|c:\\users\\nimith.shetty\\desktop\\aproscm\\listofobjectserializedeserialize\\listofobjectserializedeserialize.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{FA4E3519-2D9D-4BF9-9EB1-5815F23C0577}|ListOfObjectSerializeDeserialize.csproj|solutionrelative:listofobjectserializedeserialize.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA4E3519-2D9D-4BF9-9EB1-5815F23C0577}|ListOfObjectSerializeDeserialize.csproj|c:\\users\\nimith.shetty\\desktop\\aproscm\\listofobjectserializedeserialize\\assets\\list.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{FA4E3519-2D9D-4BF9-9EB1-5815F23C0577}|ListOfObjectSerializeDeserialize.csproj|d:\\c# training github\\serializationdeserialization\\assets\\list.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{FA4E3519-2D9D-4BF9-9EB1-5815F23C0577}|ListOfObjectSerializeDeserialize.csproj|solutionrelative:assets\\list.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA4E3519-2D9D-4BF9-9EB1-5815F23C0577}|ListOfObjectSerializeDeserialize.csproj|c:\\users\\nimith.shetty\\desktop\\aproscm\\listofobjectserializedeserialize\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{FA4E3519-2D9D-4BF9-9EB1-5815F23C0577}|ListOfObjectSerializeDeserialize.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{FA4E3519-2D9D-4BF9-9EB1-5815F23C0577}|ListOfObjectSerializeDeserialize.csproj|d:\\c# training github\\serializationdeserialization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA4E3519-2D9D-4BF9-9EB1-5815F23C0577}|ListOfObjectSerializeDeserialize.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA4E3519-2D9D-4BF9-9EB1-5815F23C0577}|ListOfObjectSerializeDeserialize.csproj|c:\\users\\nimith.shetty\\desktop\\aproscm\\listofobjectserializedeserialize\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FA4E3519-2D9D-4BF9-9EB1-5815F23C0577}|ListOfObjectSerializeDeserialize.csproj|d:\\c# training github\\serializationdeserialization\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA4E3519-2D9D-4BF9-9EB1-5815F23C0577}|ListOfObjectSerializeDeserialize.csproj|solutionrelative:models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA4E3519-2D9D-4BF9-9EB1-5815F23C0577}|ListOfObjectSerializeDeserialize.csproj|d:\\c# training github\\serializationdeserialization\\listofobjectserializedeserialize.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FA4E3519-2D9D-4BF9-9EB1-5815F23C0577}|ListOfObjectSerializeDeserialize.csproj|solutionrelative:listofobjectserializedeserialize.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA4E3519-2D9D-4BF9-9EB1-5815F23C0577}|ListOfObjectSerializeDeserialize.csproj|d:\\c# training github\\serializationdeserialization\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FA4E3519-2D9D-4BF9-9EB1-5815F23C0577}|ListOfObjectSerializeDeserialize.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,39 +30,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "list.json",
-              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ListOfObjectSerializeDeserialize\\Assets\\list.json",
+              "DocumentMoniker": "D:\\C# Training github\\SerializationDeserialization\\Assets\\list.json",
               "RelativeDocumentMoniker": "Assets\\list.json",
-              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ListOfObjectSerializeDeserialize\\Assets\\list.json",
+              "ToolTip": "D:\\C# Training github\\SerializationDeserialization\\Assets\\list.json",
               "RelativeToolTip": "Assets\\list.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-23T04:08:01.791Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ListOfObjectSerializeDeserialize.csproj",
-              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ListOfObjectSerializeDeserialize\\ListOfObjectSerializeDeserialize.csproj",
-              "RelativeDocumentMoniker": "ListOfObjectSerializeDeserialize.csproj",
-              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ListOfObjectSerializeDeserialize\\ListOfObjectSerializeDeserialize.csproj",
-              "RelativeToolTip": "ListOfObjectSerializeDeserialize.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-22T13:17:08.865Z"
+              "WhenOpened": "2024-07-23T04:08:01.791Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "ListOfObjectSerializeDeserialize.csproj",
+              "DocumentMoniker": "D:\\C# Training github\\SerializationDeserialization\\ListOfObjectSerializeDeserialize.csproj",
+              "RelativeDocumentMoniker": "ListOfObjectSerializeDeserialize.csproj",
+              "ToolTip": "D:\\C# Training github\\SerializationDeserialization\\ListOfObjectSerializeDeserialize.csproj",
+              "RelativeToolTip": "ListOfObjectSerializeDeserialize.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-22T13:17:08.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ListOfObjectSerializeDeserialize\\App.config",
+              "DocumentMoniker": "D:\\C# Training github\\SerializationDeserialization\\App.config",
               "RelativeDocumentMoniker": "App.config",
-              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ListOfObjectSerializeDeserialize\\App.config",
+              "ToolTip": "D:\\C# Training github\\SerializationDeserialization\\App.config",
               "RelativeToolTip": "App.config",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
@@ -70,25 +72,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Person.cs",
-              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ListOfObjectSerializeDeserialize\\Models\\Person.cs",
+              "DocumentMoniker": "D:\\C# Training github\\SerializationDeserialization\\Models\\Person.cs",
               "RelativeDocumentMoniker": "Models\\Person.cs",
-              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ListOfObjectSerializeDeserialize\\Models\\Person.cs",
+              "ToolTip": "D:\\C# Training github\\SerializationDeserialization\\Models\\Person.cs",
               "RelativeToolTip": "Models\\Person.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAA9wBsAAAAhAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T13:16:28.859Z"
+              "WhenOpened": "2024-07-22T13:16:28.859Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ListOfObjectSerializeDeserialize\\Program.cs",
+              "DocumentMoniker": "D:\\C# Training github\\SerializationDeserialization\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ListOfObjectSerializeDeserialize\\Program.cs",
+              "ToolTip": "D:\\C# Training github\\SerializationDeserialization\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBwAAAAYAAAA",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAowDgAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-22T13:15:29.87Z",
               "EditorCaption": ""

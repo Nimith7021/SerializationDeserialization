@@ -20,3 +20,26 @@ C:\Users\nimith.shetty\Desktop\AproSCM\ListOfObjectSerializeDeserialize\obj\Debu
 C:\Users\nimith.shetty\Desktop\AproSCM\ListOfObjectSerializeDeserialize\obj\Debug\net8.0\ListOfObjectSerializeDeserialize.pdb
 C:\Users\nimith.shetty\Desktop\AproSCM\ListOfObjectSerializeDeserialize\obj\Debug\net8.0\ListOfObjectSerializeDeserialize.genruntimeconfig.cache
 C:\Users\nimith.shetty\Desktop\AproSCM\ListOfObjectSerializeDeserialize\obj\Debug\net8.0\ref\ListOfObjectSerializeDeserialize.dll
+D:\C# Training github\SerializationDeserialization\bin\Debug\net8.0\ListOfObjectSerializeDeserialize.exe
+D:\C# Training github\SerializationDeserialization\bin\Debug\net8.0\ListOfObjectSerializeDeserialize.dll.config
+D:\C# Training github\SerializationDeserialization\bin\Debug\net8.0\ListOfObjectSerializeDeserialize.deps.json
+D:\C# Training github\SerializationDeserialization\bin\Debug\net8.0\ListOfObjectSerializeDeserialize.runtimeconfig.json
+D:\C# Training github\SerializationDeserialization\bin\Debug\net8.0\ListOfObjectSerializeDeserialize.dll
+D:\C# Training github\SerializationDeserialization\bin\Debug\net8.0\ListOfObjectSerializeDeserialize.pdb
+D:\C# Training github\SerializationDeserialization\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\C# Training github\SerializationDeserialization\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+D:\C# Training github\SerializationDeserialization\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\C# Training github\SerializationDeserialization\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+D:\C# Training github\SerializationDeserialization\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\C# Training github\SerializationDeserialization\obj\Debug\net8.0\ListOfObjectSerializeDeserialize.csproj.AssemblyReference.cache
+D:\C# Training github\SerializationDeserialization\obj\Debug\net8.0\ListOfObjectSerializeDeserialize.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Training github\SerializationDeserialization\obj\Debug\net8.0\ListOfObjectSerializeDeserialize.AssemblyInfoInputs.cache
+D:\C# Training github\SerializationDeserialization\obj\Debug\net8.0\ListOfObjectSerializeDeserialize.AssemblyInfo.cs
+D:\C# Training github\SerializationDeserialization\obj\Debug\net8.0\ListOfObjectSerializeDeserialize.csproj.CoreCompileInputs.cache
+D:\C# Training github\SerializationDeserialization\obj\Debug\net8.0\ListOfObjectSerializeDeserialize.sourcelink.json
+D:\C# Training github\SerializationDeserialization\obj\Debug\net8.0\ListOfOb.FA3E44CA.Up2Date
+D:\C# Training github\SerializationDeserialization\obj\Debug\net8.0\ListOfObjectSerializeDeserialize.dll
+D:\C# Training github\SerializationDeserialization\obj\Debug\net8.0\refint\ListOfObjectSerializeDeserialize.dll
+D:\C# Training github\SerializationDeserialization\obj\Debug\net8.0\ListOfObjectSerializeDeserialize.pdb
+D:\C# Training github\SerializationDeserialization\obj\Debug\net8.0\ListOfObjectSerializeDeserialize.genruntimeconfig.cache
+D:\C# Training github\SerializationDeserialization\obj\Debug\net8.0\ref\ListOfObjectSerializeDeserialize.dll
